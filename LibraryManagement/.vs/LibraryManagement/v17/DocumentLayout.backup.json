@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\migrations\\20251122145714_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20251122145714_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\borrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\externalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\interfaces\\iexternalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interfaces\\iexternalapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\dtos\\returnrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\returnrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\dtos\\borrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\borrowrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\helpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\helpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\models\\externalapilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\externalapilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\admin\\downloads\\librarymanagement\\librarymanagement\\librarymanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0211DC1-C428-4C97-BBB9-5371CED1E443}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:57:36.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251122145714_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20251122145714_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20251122145714_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20251122145714_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20251122145714_InitialCreate.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:57:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvy0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:39:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:20:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T13:00:26.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:51:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:50:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BorrowerService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BorrowerService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\BorrowerService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:28:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Borrower.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:55:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:48:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:49:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BorrowService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BorrowService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\BorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:30:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExternalApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ExternalApiController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\ExternalApiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ExternalApiController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\ExternalApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:50:28.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowerController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowerController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:46:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExternalApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\ExternalApiService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\ExternalApiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\ExternalApiService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\ExternalApiService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:32:11.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:26:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:08:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv2IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:31:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IExternalApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IExternalApiService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interfaces\\IExternalApiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IExternalApiService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interfaces\\IExternalApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:26:54.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBorrowService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interfaces\\IBorrowService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBorrowService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interfaces\\IBorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:25:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interfaces\\IBorrowerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interfaces\\IBorrowerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:22:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReturnRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\ReturnRequestDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\ReturnRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\ReturnRequestDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\ReturnRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:18:38.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BorrowRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\BorrowRequestDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\BorrowRequestDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\BorrowRequestDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\BorrowRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:17:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Helpers\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Helpers\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Helpers\\PaginationParams.cs",
+              "RelativeToolTip": "LibraryManagement\\Helpers\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:16:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Helpers\\PagedResult.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Helpers\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Helpers\\PagedResult.cs",
+              "RelativeToolTip": "LibraryManagement\\Helpers\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:16:01.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:05:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:03:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DTOs\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\DTOs\\BookCreateDto.cs",
+              "RelativeToolTip": "LibraryManagement\\DTOs\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T12:02:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExternalApiLog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\ExternalApiLog.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\ExternalApiLog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\ExternalApiLog.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\ExternalApiLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:57:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Product.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:57:10.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:56:36.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:54:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.Development.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T11:50:53.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
